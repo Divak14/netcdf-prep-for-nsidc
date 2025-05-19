@@ -1,6 +1,6 @@
 # netcdf-prep-for-nsidc
 
-Struggling to create NetCDF files that are compatible across platforms for publishing Earth science data? This repository offers a streamlined, open-source Python workflow for generating NetCDF files that adhere to the metadata and formatting standards of the NASA NSIDC DAAC. Designed for use with your own datasets, the workflow enables the creation of publication-ready, interoperable data products that can be easily shared and accessed by the broader scientific community using tools like QGIS, Panoply, or cloud-based platforms.
+**Ever struggled with creating NetCDF files that are fully compatible across platforms for publishing your Earth science data?** This repository offers a streamlined, open-source Python workflow for generating NetCDF files that adhere to the metadata and formatting standards of the NASA NSIDC DAAC. Designed for use with your own datasets, the workflow enables the creation of publication-ready, interoperable data products that can be easily shared and accessed by the broader scientific community using tools like QGIS, Panoply, or cloud-based platforms.
 
 # 🛰️ NSIDC DAAC Data Preparation & NetCDF Conversion
 
