@@ -1,5 +1,7 @@
 # netcdf-prep-for-nsidc
 
+Struggling to create NetCDF files that are compatible across platforms for publishing Earth science data? This repository offers a streamlined, open-source Python workflow for generating NetCDF files that adhere to the metadata and formatting standards of the NASA NSIDC DAAC. Designed for use with your own datasets, the workflow enables the creation of publication-ready, interoperable data products that can be easily shared and accessed by the broader scientific community using tools like QGIS, Panoply, or cloud-based platforms.
+
 # 🛰️ NSIDC DAAC Data Preparation & NetCDF Conversion
 
 This repository provides a complete, reproducible Python-based workflow for preparing and formatting Earth science data files according to the standards set by the **NASA National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC)**. The process includes metadata structuring, data cleaning, NetCDF conversion, and visualization.
