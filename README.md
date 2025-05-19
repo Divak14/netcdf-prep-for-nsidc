@@ -52,4 +52,4 @@ The output NetCDF files can be opened and visualized in:
 ## 📜 References
 
 1. [D. Kumawat, M. Olyaei, L. Gao and A. Ebtehaj, "Passive Microwave Retrieval of Soil Moisture Below Snowpack at L-Band Using SMAP Observations," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-16, 2022, Art no. 4415216, doi: 10.1109/TGRS.2022.3216324.](https://ieeexplore.ieee.org/abstract/document/9927161)  
-2. [Global estimates of L-band vegetation optical depth and soil permittivity of snow-covered boreal forests and permafrost landscape using SMAP satellite data, 2024](https://www.sciencedirect.com/science/article/pii/S0034425724001561)
+2. [Kumawat, Divya, et al. "Global estimates of L-band vegetation optical depth and soil permittivity of snow-covered boreal forests and permafrost landscape using SMAP satellite data." Remote Sensing of Environment 306 (2024): 114145.](https://www.sciencedirect.com/science/article/pii/S0034425724001561)
